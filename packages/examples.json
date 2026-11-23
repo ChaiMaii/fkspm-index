@@ -1,0 +1,15 @@
+{
+  "name": "examples",
+  "description": "Official FakeScript v3.0 example programs (script, showcase, interactive).",
+  "author": "ChaiMaii",
+  "license": "WTFPL",
+  "repository": "https://github.com/ChaiMaii/fakescript",
+  "tags": ["examples", "starter", "official"],
+  "latest": "3.0.0",
+  "versions": {
+    "3.0.0": {
+      "tarball": "https://github.com/ChaiMaii/fakescript/archive/refs/heads/main.tar.gz",
+      "sha256": ""
+    }
+  }
+}
